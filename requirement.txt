@@ -2,3 +2,7 @@ this is chat app
 emoji
 type option
 color
+
+dark mode
+video
+audio
