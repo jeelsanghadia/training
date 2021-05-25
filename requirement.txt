@@ -6,3 +6,6 @@ color
 dark mode
 video
 audio
+
+payment
+send money
